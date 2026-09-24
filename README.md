@@ -2,6 +2,10 @@
 
 A full-stack, enterprise-grade Event Management Admin Dashboard crafted with **FastAPI (Python 3.13)** on the backend and **Angular 19 (Standalone Components)** on the frontend, accurately mirroring the Figma design system (`images.pdf`).
 
+<div align="center">
+  <img src="./docs/screenshots/dashboard_overview.png" alt="Ventixe Dashboard Overview" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15); margin: 20px 0;" />
+</div>
+
 ---
 
 ## 📚 Documentation Index
@@ -12,6 +16,22 @@ A full-stack, enterprise-grade Event Management Admin Dashboard crafted with **F
   - Angular 19 architecture, design tokens, Plus Jakarta Sans typography, directory structure, dev server instructions, and detailed view breakdown.
 - 🧩 [**Component Documentation (`component_documentation.md`)**](file:///d:/proj/EventManagementDashboard/component_documentation.md)
   - Comprehensive reference for all UI components, state properties, event handlers, interactive click behaviors, modal controls, and accessibility (WCAG AA/AAA) standards.
+
+---
+
+## 📸 Visual Showcase & Screen Previews
+
+| Dashboard Overview | Bookings Management |
+| :---: | :---: |
+| <img src="./docs/screenshots/dashboard_overview.png" width="460" alt="Dashboard Overview" /> | <img src="./docs/screenshots/bookings.png" width="460" alt="Bookings Management" /> |
+| **Invoices & Billing Split View** | **Inbox & Messaging Center** |
+| <img src="./docs/screenshots/invoices.png" width="460" alt="Invoices Split View" /> | <img src="./docs/screenshots/inbox.png" width="460" alt="Inbox Messenger" /> |
+| **Calendar & Agenda Schedule** | **Financials & Accounting Ledger** |
+| <img src="./docs/screenshots/calendar.png" width="460" alt="Calendar & Agendas" /> | <img src="./docs/screenshots/financials.png" width="460" alt="Financials Ledger" /> |
+| **Events Catalog** | **Event Details & Merchandise** |
+| <img src="./docs/screenshots/events_catalog.png" width="460" alt="Events Catalog" /> | <img src="./docs/screenshots/event_details.png" width="460" alt="Event Details" /> |
+| **Media Photo Gallery** | **Printable E-Voucher Pass** |
+| <img src="./docs/screenshots/gallery.png" width="460" alt="Media Gallery" /> | <img src="./docs/screenshots/e_voucher.png" width="460" alt="E-Voucher Pass" /> |
 
 ---
 

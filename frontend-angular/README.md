@@ -2,6 +2,10 @@
 
 A high-fidelity, production-grade Event Management Admin Dashboard crafted with **Angular 19 (Standalone Components)**, TypeScript, and Vanilla CSS design tokens. Strictly modeled after the 13-page Figma design specifications (`images.pdf`).
 
+<div align="center">
+  <img src="../docs/screenshots/dashboard_overview.png" alt="Ventixe Dashboard Overview" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15); margin: 20px 0;" />
+</div>
+
 ---
 
 ## 📋 Table of Contents
